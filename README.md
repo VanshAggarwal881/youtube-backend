@@ -14,7 +14,7 @@ A robust backend for a video sharing platform with user authentication, video ma
 - [Contributing](#contributing)
 - [Gratitude](#gratitude)
 
-## Features ✨
+## Features
 
 - **User Authentication**
   - JWT-based login/refresh tokens
@@ -39,7 +39,7 @@ A robust backend for a video sharing platform with user authentication, video ma
   - Video performance metrics
   - Subscription tracking
 
-## Tech Stack 🛠️
+## Tech Stack
 
 - **Runtime**: Node.js
 - **Framework**: Express.js
@@ -51,7 +51,7 @@ A robust backend for a video sharing platform with user authentication, video ma
   - `multer` - File upload handling
   - `bcrypt` - Password hashing
 
-## Getting Started 🚀
+## Getting Started
 
 ### Prerequisites
 
@@ -87,7 +87,7 @@ cp .env.example .env
 npm run dev
 ```
 
-## Environment Variables 🔒
+## Environment Variables
 
 Create `.env` file with these variables:
 
@@ -103,7 +103,7 @@ CLOUDINARY_API_SECRET=your_api_secret
 PORT=8080
 ```
 
-## API Reference 📚
+## API Reference
 
 ### Authentication
 
@@ -136,7 +136,7 @@ PORT=8080
 
 [View Full API Documentation](API_DOCS.md)
 
-## Deployment 🚢
+## Deployment
 
 1. **Render.com** (Recommended)
 
@@ -150,7 +150,7 @@ PORT=8080
    - Configure CORS properly
    - Enable HTTPS
 
-## Testing 🔍
+## Testing
 
 Test endpoints using Postman:
 
@@ -159,7 +159,7 @@ Test endpoints using Postman:
    - `base_url`: Your deployment URL
    - `access_token`: From login response
 
-## Contributing 🤝
+## Contributing
 
 1. Fork the project
 2. Create your feature branch:
