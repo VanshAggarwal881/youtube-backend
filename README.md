@@ -154,10 +154,8 @@ PORT=8080
 
 Test endpoints using Postman:
 
-1. Import [Postman Collection](postman_collection.json)
-2. Set environment variables:
-   - `base_url`: Your deployment URL
-   - `access_token`: From login response
+1. Download Postman on your device.
+2. For Reference see [How to use Postman for Backend](https://youtu.be/_u-WgSN5ymU?si=d8c8gXD6oj8N3eFl)
 
 ## Contributing
 
